@@ -1,4 +1,4 @@
-Proyecto Integrador de JavaScript desde Cero donde
+Proyecto Integrador de JavaScript desde Cero donde aplicamos todos los conceptos y herramientas aprendidos durante e Curso.
 
 ![image](https://github.com/user-attachments/assets/2bd2733c-fd2d-4674-b517-5b52236d4f2a)
 
