@@ -1,5 +1,5 @@
 
-/*
+
 const costoBase = 1.16;
 
 alert("Las empresas de seguro poseen un valor definido por Costo Base por metro cuadrado que es de USD 1,16.");
